@@ -16,3 +16,10 @@ SougoCS is a Chinese news classification dataset covering 11 categories, includi
 
 NeteaseNews (Netease News Corpus).
 NeteaseNews is a Chinese news classification dataset collected from various channels of the Netease news website. It contains 24,000 samples from 6 categories, with each category containing between 400 and 4,000 samples. The average text length is approximately 979 characters.
+
+The datasets analyzed during the current study are publicly available from their respective repositories. 
+The THUCNews dataset is available at \url{https://huggingface.co/datasets/seamew/THUCNews/tree/main}; 
+the Fudan dataset can be obtained from \url{https://gitcode.com/open-source-toolkit/283c1}; 
+the SogouCS dataset is available at \url{https://vercel.hyper.ai/en/datasets/9270}; 
+and the NeteaseNews dataset can be accessed from \url{https://download.csdn.net/download/hashigi_mc/10345013}. 
+These publicly available datasets were used solely for academic research purposes.
